@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "notion-downloader": "^0.1.8"
+  }
+}

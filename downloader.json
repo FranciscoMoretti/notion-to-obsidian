@@ -1,0 +1,30 @@
+{
+  "rootId": "11a047149aef80ffb78ef8afd3325647",
+  "rootObjectType": "page",
+  "cache": {
+    "cacheDirectory": "./.downloader",
+    "cleanCache": false,
+    "cacheStrategy": "cache",
+    "cacheAssets": true
+  },
+  "conversion": {
+    "skip": false,
+    "overwrite": false,
+    "markdownExtension": "md",
+    "filters": [],
+    "pageLinkHasExtension": false,
+    "outputPaths": {
+      "markdown": "./content/",
+      "assets": "./content/assets/"
+    },
+    "markdownPrefixes": {
+      "markdown": "",
+      "assets": "assets/"
+    },
+    "layoutStrategy": {
+      "markdown": "hierarchical",
+      "assets": "flat"
+    },
+    "namingStrategy": "default"
+  }
+}
